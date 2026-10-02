@@ -1,0 +1,17 @@
+par,kernel,C,entrenamiento,test,exactitud
+lordoftherings vs gameofthrones,rbf,1.0,907,293,0.8873720136518771
+lordoftherings vs gameofthrones,linear,1.0,907,293,0.8771331058020477
+lordoftherings vs gameofthrones,rbf,10.0,907,293,0.8771331058020477
+lordoftherings vs gameofthrones,rbf,100.0,907,293,0.8771331058020477
+lordoftherings vs gameofthrones,linear,10.0,907,293,0.8430034129692833
+lordoftherings vs gameofthrones,linear,100.0,907,293,0.8293515358361775
+lordoftherings vs gameofthrones,linear,0.1,907,293,0.46075085324232085
+lordoftherings vs gameofthrones,rbf,0.1,907,293,0.33447098976109213
+nba vs australia,linear,1.0,773,427,0.9227166276346604
+nba vs australia,linear,10.0,773,427,0.9227166276346604
+nba vs australia,rbf,10.0,773,427,0.882903981264637
+nba vs australia,rbf,100.0,773,427,0.882903981264637
+nba vs australia,linear,100.0,773,427,0.8711943793911007
+nba vs australia,rbf,1.0,773,427,0.8571428571428571
+nba vs australia,linear,0.1,773,427,0.35362997658079626
+nba vs australia,rbf,0.1,773,427,0.2927400468384075
