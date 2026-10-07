@@ -11,3 +11,13 @@ wheels/
 
 # Environment variables and secrets
 .env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# datos 
+cacm/
+json/
